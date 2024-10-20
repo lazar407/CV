@@ -13,7 +13,8 @@
 |International competition "First Global Challenge" | October 2023 | Singapore | Judge's Award Technical |  
 |National robotics competition " Vukobratićevi Dani" | Novembar 2023 | Belgrade, Serbia| Participation|
 |National electrical engendering competition "Energija u žici" | December 2023 | Podgorica, Montenegro| 3nd Place|
-| National CB Radio competition | August 2024| Osijek, Croatia |2st Place|
+|National CB Radio competition | August 2024| Osijek, Croatia |2st Place|
+|BostMeUp | Octobar 2024 | Niksic, Montenegro | Participated |
 
 
 ## Additional activities

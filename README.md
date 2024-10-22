@@ -14,7 +14,7 @@
 |National robotics competition " Vukobratićevi Dani" | Novembar 2023 | Belgrade, Serbia| Participation|
 |National electrical engendering competition "Energija u žici" | December 2023 | Podgorica, Montenegro| 3nd Place|
 |National CB Radio competition | August 2024| Osijek, Croatia |2st Place|
-|BostMeUp | Octobar 2024 | Niksic, Montenegro | Participated |
+|BostMeUp Boot Cump| Octobar 2024 | Niksic, Montenegro | 7th place qualifier|
 
 
 ## Additional activities

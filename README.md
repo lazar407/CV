@@ -16,7 +16,7 @@
 |National CB Radio competition | August 2024| Osijek, Croatia |2st Place|
 |BostMeUp Boot Cump| Octobar 2024 | Niksic, Montenegro | 7th place qualifier|
 |Montenegro pitching competition|April 2025|Podgorica, Mongenegro| Participation|
-|WRO Montenegro|April 2025|Podgorica, Montenegro| 3th place, Senior|
+|WRO Montenegro Senior|April 2025|Podgorica, Montenegro| 3th place|
 
 
 ## Additional activities

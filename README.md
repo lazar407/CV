@@ -16,6 +16,7 @@
 |National CB Radio competition | August 2024| Osijek, Croatia |2st Place|
 |BostMeUp Boot Cump| Octobar 2024 | Niksic, Montenegro | 7th place qualifier|
 |Montenegro pitching competition|April 2025|Podgorica, Mongenegro| Participation|
+|WRO Montenegro|April 2025|Podgorica, Montenegro| 3th place, Senior|
 
 
 ## Additional activities
@@ -30,7 +31,7 @@
 |Assisted with the realization of the event "Karavan Znanja" | December 2022 | Montenegro | 
 |Assisted with the realization of various events organized by NGO "Politehnika" | 2022 - 2024 | Montenegro| 
 |Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro| 
-|Held classes for kids on the fealds of electronics and 3d modeling| 2025| Montenegro|
+|Held classes for kids on the fealds of electronics and 3d modeling organised by "M:tel digitalna fabrika"|Mart 2025| Montenegro|
 
 ## Skills 
 

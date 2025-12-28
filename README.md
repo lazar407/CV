@@ -17,6 +17,7 @@
 |BostMeUp Boot Camp| Octobar 2024 | Niksic, Montenegro | 7th place qualifier|
 |Montenegro pitching competition|April 2025|Podgorica, Mongenegro| Participation|
 |WRO Montenegro Senior|April 2025|Podgorica, Montenegro| 3th place|
+|The Games of the Future 2025 Abu Dhabi UAE|December 2025| 16-12 place|
 
 
 ## Additional activities

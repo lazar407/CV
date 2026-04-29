@@ -17,8 +17,9 @@
 |BostMeUp Boot Camp| Octobar 2024 | Niksic, Montenegro | 7th place qualifier|
 |Montenegro pitching competition|April 2025|Podgorica, Mongenegro| Participation|
 |WRO Montenegro Senior|April 2025|Podgorica, Montenegro| 3th place|
-|The Games of the Future 2025 Abu Dhabi UAE|December 2025| 16-12 place|
+|The Games of the Future 2025 Abu Dhabi UAE|December 2025| Abu Dhabi UAE |16-12 place|
 |Global Game Jam 2026 by ICT Cortex| February 2026| Podgorica, Montenegro| 1st place |
+|WRO 2026 Future Engineers|April 2026|Podgorica, Montenegro|2nd place|
 
 
 ## Additional activities
@@ -34,6 +35,7 @@
 |Assisted with the realization of various events organized by NGO "Politehnika" | 2022 - 2024 | Montenegro| 
 |Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro| 
 |Held classes for kids on the fealds of electronics and 3d modeling organised by "M:tel digitalna fabrika"|Mart 2025| Montenegro|
+|Assisted in realization of project "SkyLab Montenegro: Od ideje do orbite" organized by Crnogorsko udruženje za znanje i nauku MAKS, BIP Tech and Montenegro robotics|2025-2026|Montenegro|
 
 ## Skills 
 

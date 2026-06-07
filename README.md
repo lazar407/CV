@@ -36,6 +36,7 @@
 |Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro| 
 |Held classes for kids on the fealds of electronics and 3d modeling organised by "M:tel digitalna fabrika"|Mart 2025| Montenegro|
 |Assisted in realization of project "SkyLab Montenegro: Od ideje do orbite" organized by Crnogorsko udruženje za znanje i nauku MAKS, BIP Tech and Montenegro robotics|2025-2026|Montenegro|
+|Part of the team realising the project "Smart3D: Kreativna edukacijakroz pametnu stampu" organized by BIP Tech|2025-2026|Montenegro|
 
 ## Skills 
 

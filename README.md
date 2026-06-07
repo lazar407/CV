@@ -26,18 +26,18 @@
 
 | Activity | Date | Location | 
 |----------|-------|--------|
-| Participant in the Winter school of science "Stopama nauke do tehnologija budućnosti" | February 2024 | Podgorica, Montenegro | 
-| Participated in the activities "Gradimo budućnost kroz znanje i inovacije" | June 2023 | Osijek, Croatia | 
-|Participated in the short course "PG STEM Lab" | October 2023 | Podgorica, Montenegro |
-|Presented at the event "Dani nauke i inovacije" | September 2024 | Podgorica, Montenegro | 
-|Presented at the event "Dani nauke i inovacije" | September 2023 | Podgorica, Montenegro |
 |Assisted with the realization of the event "Karavan Znanja" | December 2022 | Montenegro | 
-|Assisted with the realization of various events organized by NGO "Politehnika" | 2022 - 2024 | Montenegro| 
-|Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2024 | Montenegro| 
+| Participated in the activities "Gradimo budućnost kroz znanje i inovacije" | June 2023 | Osijek, Croatia | 
+|Presented at the event "Dani nauke i inovacije" | September 2023 | Podgorica, Montenegro |
+|Participated in the short course "PG STEM Lab" | October 2023 | Podgorica, Montenegro |
+| Participant in the Winter school of science "Stopama nauke do tehnologija budućnosti" | February 2024 | Podgorica, Montenegro | 
+|Presented at the event "Dani nauke i inovacije" | September 2024 | Podgorica, Montenegro | 
 |Held classes for kids on the fealds of electronics and 3d modeling organised by "M:tel digitalna fabrika"|Mart 2025| Montenegro|
 |Assisted in realization of project "SkyLab Montenegro: Od ideje do orbite" organized by Crnogorsko udruženje za znanje i nauku MAKS, BIP Tech and Montenegro robotics|2025-2026|Montenegro|
 |Part of the team realising the project "Smart3D: Kreativna edukacijakroz pametnu stampu" organized by BIP Tech, Mentor: 3D modelovanje|2025-2026|Montenegro|
 |Part of the team realising the project "InnoBit - Inovacijom kroz micro:bit" organized by BIP Tech, Mentor: micro:bit|2025-2026|Montenegro|
+|Assisted with the realization of various events organized by NGO "Politehnika" | 2022 - 2026 | Montenegro| 
+|Assisted with the realization of various events organized by NGO "Montenegro Robotics" | 2022 - 2026 | Montenegro| 
 
 ## Skills 
 

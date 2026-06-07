@@ -37,6 +37,7 @@
 |Dio tima koi je realizovao projekat "SkyLab Montenegro: Od ideje do orbite" Organizovano od strane Crnogorsko udruženje za znanje i nauku MAKS, BIP Tech and Montenegro robotics|2025-2026|Montenegro|
 |Dio tima koi je realizovao projekat "Smart3D: Kreativna edukacijakroz pametnu stampu" Organizovano od strane BIP Tech, Mentor: 3D modelovanje|2025-2026|Montenegro|
 |Dio tima koi je realizovao projekat "InnoBit - Inovacijom kroz micro:bit" Organizovano od strane BIP Tech, Mentor: micro:bit|2025-2026|Montenegro|
+|Mentor tima za takmičenje "National STEM Contest 2026" Parallel Elementary kategorija: 3athlon, baSTEMball|April 2026|Greece|
 |Mentor tima za takmičenje "FIRST GLOBAL CROATIA"|Jul 2026| Croatia|
 
 ## Sposobnosti 
